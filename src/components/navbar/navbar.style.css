@@ -1,0 +1,36 @@
+.leaflet {
+  color: #002252;
+  font-family: 'Fasthand';
+  margin-right: auto;
+  padding: 0;
+}
+
+.main-nav {
+  display: flex;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+  align-items: center;
+  padding: 0;
+
+}
+
+li {
+  padding: 20px;
+  margin: 0;
+}
+
+.a {
+  color: #082a5a;
+  text-decoration: none;
+  font-family: 'Fasthand';
+}
+
+@media only screen and (max-width: 600px) {
+  .main-nav {
+    font-size: 0.5 em;
+    padding: 0;
+  }
+}
