@@ -1,6 +1,7 @@
 .leaflet {
-  color: #002252;
-  font-family: 'Fasthand';
+  color: #fff7ec;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Prompt", sans-serif;
   margin-right: auto;
   padding: 0;
 }
@@ -14,7 +15,6 @@
   list-style-type: none;
   align-items: center;
   padding: 0;
-
 }
 
 li {
@@ -23,9 +23,10 @@ li {
 }
 
 .a {
-  color: #082a5a;
+  color: #fff7ec;
   text-decoration: none;
-  font-family: 'Fasthand';
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Prompt", sans-serif;
 }
 
 @media only screen and (max-width: 600px) {

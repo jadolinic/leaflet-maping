@@ -16,7 +16,7 @@ class Navbar extends Component {
           </li>
           <li>
             <NavLink className="a" to="/table">
-              <h2>TABLE</h2>
+              <h2>Table</h2>
             </NavLink>
           </li>
         </ul>

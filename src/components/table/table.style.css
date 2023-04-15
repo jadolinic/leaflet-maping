@@ -1,5 +1,8 @@
 .table {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Prompt", sans-serif;
+  color: #fff7ec;
 }
