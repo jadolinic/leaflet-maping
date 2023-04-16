@@ -1,8 +1,10 @@
 .table {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   font-family: "Cormorant Garamond", serif;
   font-family: "Prompt", sans-serif;
   color: #fff7ec;
+  border: 1px solid grey;
+  border-radius: 5px;
+  -webkit-box-shadow: 11px 9px 9px -8px rgba(0, 0, 0, 0.52);
+  -moz-box-shadow: 11px 9px 9px -8px rgba(0, 0, 0, 0.52);
+  box-shadow: 11px 9px 9px -8px rgba(0, 0, 0, 0.52);
 }

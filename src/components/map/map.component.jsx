@@ -4,11 +4,11 @@ import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import L, { DivIcon, point } from "leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
-import lokacije from "../map/objekti.json";
+import lokacije from "./objekti.json";
 
 class Map extends Component {
   onEachLocation = (lokacije, layer) => {
-    const nazivObjekta = lokacije.properties.naziv_objekta;
+    const nazivObjekta = lokacije.properties.nazivObjekta;
     const psBroj = lokacije.properties.ps_br;
     const eBroj = lokacije.properties.e_br;
     const tipObjekta = lokacije.properties.tip_objekta;

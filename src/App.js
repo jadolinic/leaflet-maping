@@ -11,13 +11,13 @@ import { Route, Routes } from "react-router-dom";
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <>
         <Navbar/>
         <Routes>
           <Route path="/" element={<Map />} />
           <Route path="/table" element={<Table />} />
         </Routes>
-      </div>
+      </>
     );
   }
 }
