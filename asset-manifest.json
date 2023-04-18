@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jadolinic/leaflet-maping/static/css/main.d7369573.css",
-    "main.js": "/jadolinic/leaflet-maping/static/js/main.b53da340.js",
+    "main.js": "/jadolinic/leaflet-maping/static/js/main.f4771678.js",
     "static/js/787.eea26a06.chunk.js": "/jadolinic/leaflet-maping/static/js/787.eea26a06.chunk.js",
     "index.html": "/jadolinic/leaflet-maping/index.html",
     "main.d7369573.css.map": "/jadolinic/leaflet-maping/static/css/main.d7369573.css.map",
-    "main.b53da340.js.map": "/jadolinic/leaflet-maping/static/js/main.b53da340.js.map",
+    "main.f4771678.js.map": "/jadolinic/leaflet-maping/static/js/main.f4771678.js.map",
     "787.eea26a06.chunk.js.map": "/jadolinic/leaflet-maping/static/js/787.eea26a06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7369573.css",
-    "static/js/main.b53da340.js"
+    "static/js/main.f4771678.js"
   ]
 }
