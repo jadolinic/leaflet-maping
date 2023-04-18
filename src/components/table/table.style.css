@@ -7,4 +7,8 @@
   -webkit-box-shadow: 11px 9px 9px -8px rgba(0, 0, 0, 0.52);
   -moz-box-shadow: 11px 9px 9px -8px rgba(0, 0, 0, 0.52);
   box-shadow: 11px 9px 9px -8px rgba(0, 0, 0, 0.52);
+
+}
+.table-body {
+  max-height: 100px;
 }

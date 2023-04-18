@@ -17,7 +17,7 @@ class Table extends Component {
             <th scope="col">Lučka kapetanija</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody className="table-body">
           {lokacije.features.map((val) => (
             <tr>
               <td>{val.properties.naziv_objekta}</td>

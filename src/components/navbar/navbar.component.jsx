@@ -10,12 +10,12 @@ class Navbar extends Component {
             <h1>Leaflet-React</h1>
           </li>
           <li>
-            <NavLink className="a" to="/">
+            <NavLink className="a" to="/jadolinic/leaflet-maping">
               <h2>Map</h2>
             </NavLink>
           </li>
           <li>
-            <NavLink className="a" to="/table">
+            <NavLink className="a" to="/jadolinic/leaflet-maping/table">
               <h2>Table</h2>
             </NavLink>
           </li>

@@ -14,8 +14,8 @@ class App extends Component {
       <>
         <Navbar/>
         <Routes>
-          <Route path="/" element={<Map />} />
-          <Route path="/table" element={<Table />} />
+          <Route path="/jadolinic/leaflet-maping" element={<Map />} />
+          <Route path="/jadolinic/leaflet-maping/table" element={<Table />} />
         </Routes>
       </>
     );
