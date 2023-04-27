@@ -1,4 +1,4 @@
-* Leaflet Project 
+# Leaflet Project 
 
 The purpose of this little project is to use React Leaflet to create interactive map with markers and popups. I have integrated GEOJson file that has coordination for showing specific markers.
 
